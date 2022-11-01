@@ -1,0 +1,27 @@
+
+@media (max-width: 420px) {
+
+
+
+/* start home */
+/* Custom Media Not Found On Bootstrap */
+.home .container h1 {
+    font-size: 50px;
+}
+.home .plans .plan {
+    font-size: 22px;
+}
+
+
+
+
+
+
+
+
+
+
+
+}
+
+

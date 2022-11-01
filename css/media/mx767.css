@@ -1,0 +1,36 @@
+
+@media (max-width: 767px) {
+
+.minTitle {
+    font-size: 35px;
+}
+
+
+/* start home */
+.home .plans .plan {
+    font-size: 22px;
+}
+
+
+
+/* Start Features */
+.features .feats .feat {
+    text-align: center
+}
+
+
+
+
+/* Start Our Works */
+.our-works .image {
+    width: 100%
+}
+
+
+
+
+
+
+
+}
+
